@@ -2,16 +2,32 @@
 #Encabezado{
     background-color: forestgreen;
     margin-bottom: 1%;
+    height: 21%;
+}
+
+#EncabezadoHome{
+    background-color: forestgreen;
+    margin-bottom: 1%;
+    height: 15%;
 }
 
 header{
     text-align: center;
     justify-content: center;
-    height: 13%;
 }
 
 header h1{
-    height: 25%;
+    margin-top: 1%;
+}
+
+nav a{
+    color: black;
+    margin-right: 1%;
+    text-decoration: none;
+}
+
+nav{
+    text-align: center;
 }
 
 table{
@@ -47,6 +63,7 @@ footer{
     align-items: center;
     background-color: forestgreen;
     height: 10%;
+    margin-top: 3%;
 }
 
 p{
@@ -66,6 +83,11 @@ audio{
 }
 
 iframe{
+    margin-left: 1%;
+    margin-bottom: 3%;
+}
+
+article a{
     margin-left: 1%;
 }
 
