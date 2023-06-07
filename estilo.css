@@ -1,0 +1,73 @@
+
+#Encabezado{
+    background-color: forestgreen;
+    margin-bottom: 1%;
+}
+
+header{
+    text-align: center;
+    justify-content: center;
+    height: 13%;
+}
+
+header h1{
+    height: 25%;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+td{
+    text-align: center;
+}
+
+.Imagen{
+    width: 200;
+    height: 120;
+}
+
+.FotoLugar{
+    width: 50%;
+    height: 50%;
+}
+
+h3{
+    margin-left: 1%;
+}
+
+li{
+    margin-bottom: 1%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: forestgreen;
+    height: 10%;
+}
+
+p{
+    margin-left: 1%;
+}
+
+video{
+    width: 50%;
+    height: 50%;
+    margin-bottom: 3%;
+    margin-left: 1%;
+}
+
+audio{
+    margin-bottom: 3%;
+    margin-left: 1%;
+}
+
+iframe{
+    margin-left: 1%;
+}
+
+
+
