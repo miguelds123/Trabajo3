@@ -2,13 +2,13 @@
 #Encabezado{
     background-color: forestgreen;
     margin-bottom: 1%;
-    height: 21%;
+    height: 150px;
 }
 
 #EncabezadoHome{
     background-color: forestgreen;
     margin-bottom: 1%;
-    height: 15%;
+    height: 100px;
 }
 
 header{
@@ -46,7 +46,6 @@ td{
 
 .FotoLugar{
     width: 50%;
-    height: 50%;
 }
 
 h3{
@@ -62,7 +61,7 @@ footer{
     justify-content: center;
     align-items: center;
     background-color: forestgreen;
-    height: 10%;
+    height: 70px;
     margin-top: 3%;
 }
 
