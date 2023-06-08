@@ -1,8 +1,13 @@
+@font-face {
+    font-family: 'Nature';
+    src: url('Fuentes/Nature\ Green.otf') format('truetype');
+  }
 
 #Encabezado{
     background-color: forestgreen;
     margin-bottom: 1%;
     height: 150px;
+    width: auto;
 }
 
 #EncabezadoHome{
@@ -90,5 +95,15 @@ article a{
     margin-left: 1%;
 }
 
+
+main h2{
+    font-family: Nature;
+    color: forestgreen;
+}
+
+main h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
 
 
