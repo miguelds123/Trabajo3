@@ -88,7 +88,6 @@ audio{
 
 iframe{
     margin-left: 1%;
-    margin-bottom: 3%;
 }
 
 article a{
@@ -104,6 +103,10 @@ main h2{
 main h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: brown;
+}
+
+#Referencia{
+    margin-bottom: 3%;
 }
 
 
